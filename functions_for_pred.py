@@ -172,6 +172,7 @@ def get_text_vector(df, corpuss, lda_model):
         vecs.append(topic_vec)
     return vecs
 
+
 ## pre-processing by split the tag and title to list
 def combine_title_and_tags(df):
     combine_title_tag_list = []
