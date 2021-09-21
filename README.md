@@ -42,7 +42,9 @@ pipenv shell
 
 option 1: run app.py
 
-option 2: uvicorn app:app --reload
+option 2: Type in terminal 
+
+uvicorn app:app --reload
 
 
 ### tutorial about FastAPI
