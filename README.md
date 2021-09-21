@@ -16,7 +16,9 @@ pipenv install
 3. Step3_combine.ipynb
 
 The first file processes numeric features, model indicates a 63~64% accuracy with a cohen's kappa of around ~.57 if using numeric feature alone.
+
 The second file processes text (tag and title) features,  model indicates a 40~44% accuracy with a cohen's kappa of around ~.31 if using numeric feature alone.
+
 The third file contains both numeric and text features,  model indicates a 66~69% accuracy with a cohen's kappa of ~.60.
 
 Note: due to time limits and computation power, grid search only tried a very limited set of parameters
