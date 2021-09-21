@@ -1,0 +1,50 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+jupyter = "*"
+autopep8 = "*"
+
+[packages]
+pytest = "*"
+numpy = "*"
+pyyaml = "*"
+scipy = "*"
+matplotlib = "*"
+pyqt5 = "*"
+sklearn = "*"
+pandas = "*"
+update = "*"
+xlrd = "*"
+statsmodels = "*"
+pep8 = "*"
+pymongo = "*"
+boto3 = '*'
+neurokit2 = "*"
+tqdm = "*"
+aws = "*"
+resampy = "*"
+bioinfokit = "*"
+pyathena = "*"
+keras = "*"
+daiquiri = "*"
+bokeh = "*"
+pathos = "*"
+pingouin = "*"
+astropy = "*"
+pywavelets = "*"
+pyampd = "*"
+nltk = "*"
+xgboost = "*"
+gensim = "*"
+imblearn = "*"
+pyldavis = "*"
+uvicorn = "*"
+fastapi = "*"
+python-multipart = "*"
+
+[requires]
+python_version = "3.8"
