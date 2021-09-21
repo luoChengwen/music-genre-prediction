@@ -33,6 +33,8 @@ pytest test_code/
 
 ## To run the FastAPI
 Instructions are uploaded in film: "FastAPI - Screen Recording 2021-09-19 at 2.42.00 PM.mov"
+Just in case if .mov does not work, I converted it to .mp4
+ "FastAPI - Screen Recording 2021-09-19 at 2.42.00 PM.mp4"
 
 The API will output the first 10 predictions for demonstration purposes
 
