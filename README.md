@@ -25,7 +25,7 @@ Note: due to time limits and computation power, grid search only tried a very li
 ## To run the file (test cases):
 pipenv shell
 
-export PYTHONPATH="/Users/daisy/Google Drive/DBS_Mini_Project" (your path)
+export PYTHONPATH="/Users/daisy/Google Drive/Music_Project" (your path)
 
 pytest test_code/
 
